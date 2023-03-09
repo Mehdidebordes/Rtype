@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/CMakeFiles/boost-populate"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/CMakeFiles/boost-populate.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/CMakeFiles/boost-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-build.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-download.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-install.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-test.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/boost-subbuild/boost-populate-prefix/src/boost-populate-stamp/boost-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"boost-populate"
+		],
+		"name" : "boost-populate"
+	}
+}

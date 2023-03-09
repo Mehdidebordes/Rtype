@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule"
+		},
+		{
+			"file" : "/home/mehdi/TEK_3/Projet_pr\u00e9sentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}

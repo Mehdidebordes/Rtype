@@ -1,0 +1,3 @@
+/home/mehdi/TEK_3/Projet_présentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+/home/mehdi/TEK_3/Projet_présentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+/home/mehdi/TEK_3/Projet_présentation/B-CPP-500-MPL-5-1-rtype-phearoak.em/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
